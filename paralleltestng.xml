@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="class27_AdvTestNG">
+  <test parallel="tests" name="class27_AdvTestNG_Verify_Test">
+    <packages>
+      <package name="tests_michroTech_DataProvider"/>
+      <package name="dataProvider"/>
+      <package name="tests_dataTables"/>
+      <package name="tests_michroTech_Parameter_DataProvider.copy"/>
+      <package name="tests_swagLab"/>
+    </packages>
+  </test> <!-- class27_AdvTestNG_Verify_Test -->
+</suite> <!-- class27_AdvTestNG -->

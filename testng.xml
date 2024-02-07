@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="class27_AdvTestNG">
+  <test name="class27_AdvTestNG_Verify_Test">
+    <classes>
+      <class name="tests_dataTables.Class2_DataTable"/>
+      <class name="tests_swagLab.Test_SwagLab_AddToCard"/>
+      <class name="tests_michroTech_Parameter_DataProvider.copy.homePage_data_Provider"/>
+      <class name="tests_michroTech_Parameter_DataProvider.copy.homePage_data_Provider2"/>
+      <class name="tests_michroTech_Parameter_DataProvider.copy.Test_Customer_Login"/>
+      <class name="tests_swagLab.Test_Swag_Lab_Logout"/>
+      <class name="tests_swagLab.HomePageVerification"/>
+      <class name="tests_michroTech_Parameter_DataProvider.copy.Test_Employee_Login"/>
+      <class name="dataProvider.Read_Exc_DataProvider"/>
+      <class name="tests_michroTech_DataProvider.Test_Employee_Login"/>
+      <class name="tests_michroTech_Parameter_DataProvider.copy.Test_Create_Order"/>
+      <class name="tests_dataTables.HomePageVerification"/>
+      <class name="tests_michroTech_DataProvider.Test_Customer_Login"/>
+      <class name="tests_michroTech_DataProvider.HomePageVerification"/>
+      <class name="tests_michroTech_DataProvider.Test_Create_Order"/>
+      <class name="tests_swagLab.Test_Swag_Lab_Login"/>
+    </classes>
+  </test> <!-- class27_AdvTestNG_Verify_Test -->
+</suite> <!-- class27_AdvTestNG -->
